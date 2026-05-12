@@ -32,8 +32,11 @@ HealthPlatform is a full-stack AI health analytics application that ingests pers
 ## 🖥️ Screenshots
 
 > Dashboard · Import · Profile · Health Tips
-
-*(Add your screenshots here)*
+![Dashboard](screenshots/dashboard.png)
+![Import](screenshots/import.png)
+![Profile](screenshots/profile.png)
+![Health Tips](screenshots/tips.png)
+![AI Assistant](screenshots/aiassistance.png)
 
 ---
 
