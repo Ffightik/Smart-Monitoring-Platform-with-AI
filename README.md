@@ -313,7 +313,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Nataliia Nechyporenko**
 - GitHub: [@Ffightik](https://github.com/Ffightik)
-- Email: @nechyporenkonatalia31@gmail.com
+- Email: [@nechyporenkonatalia31@gmail.com]
   
 
 ---
