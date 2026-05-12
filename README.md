@@ -312,7 +312,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 👤 Author
 
 **Nataliia Nechyporenko**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Ffightik](https://github.com/Ffightik)
 
 ---
 
