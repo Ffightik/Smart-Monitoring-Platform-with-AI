@@ -22,3 +22,7 @@ frontend/dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Large health data files
+app/data/*.xml
+app/data/export*.xml
