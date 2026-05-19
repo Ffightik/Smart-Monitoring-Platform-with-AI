@@ -47,28 +47,28 @@ HealthPlatform/
 ├── app/
 │   ├── api/
 │   │   └── routes/
-│   │       ├── upload.py       # File ingestion + 4-layer validation
-│   │       ├── predict.py      # ML inference with trust score gate
-│   │       ├── analysis.py     # Stats + chart data endpoint
-│   │       ├── chat.py         # GPT-4o with health context injection
-│   │       └── auth.py         # JWT register / login / change password
+│   │       ├── upload.py       
+│   │       ├── predict.py      
+│   │       ├── analysis.py    
+│   │       ├── chat.py        
+│   │       └── auth.py        
 │   ├── core/
-│   │   ├── parser.py           # Streaming Apple Health XML parser
-│   │   ├── universal_data_pipeline.py  # Schema detect + feature engineer
-│   │   └── data_validator.py   # Trust Score validation system
+│   │   ├── parser.py           
+│   │   ├── universal_data_pipeline.py 
+│   │   └── data_validator.py  
 │   ├── models/
-│   │   ├── lstm_model.py       # Bidirectional LSTM (TensorFlow/Keras)
-│   │   ├── xgb_model.py        # XGBoost classifier
-│   │   └── hybrid_model.py     # 70% XGB + 30% LSTM ensemble
+│   │   ├── lstm_model.py      
+│   │   ├── xgb_model.py      
+│   │   └── hybrid_model.py    
 │   └── services/
-│       ├── auth_service.py     # bcrypt + JWT helpers
-│       └── gpt_service.py      # OpenAI GPT-4o integration
+│       ├── auth_service.py    
+│       └── gpt_service.py      
 ├── frontend/
 │   └── src/
-│       └── App.jsx             # React 18 SPA — full UI
+│       └── App.jsx            
 ├── data/
-│   └── parsed_health_120days.csv  # Real Apple Watch data (120 days)
-└── run.py                      # Uvicorn entry point
+│   └── parsed_health_120days.csv 
+└── run.py                    
 ```
 
 ---
