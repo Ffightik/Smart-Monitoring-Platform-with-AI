@@ -314,7 +314,23 @@ MIT License — see [LICENSE](LICENSE) for details.
 **Nataliia Nechyporenko**
 - GitHub: [@Ffightik](https://github.com/Ffightik)
 - Email: [@nechyporenkonatalia31@gmail.com]
-  
+
+
+--- 
+
+## References
+
+[1]-Smartwatch Health Data (Uncleaned), Mohammed Arfath R,2025. URL:
+https://www.kaggle.com/datasets/mohammedarfathr/smartwatch-health-datauncleaned
+
+[2] - Fitbit Fitness Tracker Dataset, Nneka Ekwemuk, 2023. URL:
+https://www.kaggle.com/datasets/nnekaekwemuka/fitbit-fitness-tracker-dataset
+
+[3] - - iPhone User Guide, Download health records on iPhone, Apple 
+Inc.,2026.URL: https://support.apple.com/en-om/guide/iphone/iphc30019594/ios
+
+[4] - iPhone User Guide, Share your data in Health on iPhone, Apple Inc., 
+2026.URL:https://support.apple.com/en-om/guide/iphone/iph5ede58c3d/ios
 
 ---
 
