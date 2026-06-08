@@ -321,7 +321,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## References
 
 [1]-Smartwatch Health Data (Uncleaned), Mohammed Arfath R,2025. URL:
-https://www.kaggle.com/datasets/mohammedarfathr/smartwatch-health-datauncleaned
+https://www.kaggle.com/datasets/mohammedarfathr/smartwatch-health-data-uncleaned
 
 [2] - Fitbit Fitness Tracker Dataset, Nneka Ekwemuk, 2023. URL:
 https://www.kaggle.com/datasets/nnekaekwemuka/fitbit-fitness-tracker-dataset
